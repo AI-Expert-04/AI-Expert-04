@@ -2,7 +2,7 @@
 
 I❤️ code, Python and anything **CREATIVE**✨
 
-[![Instagram ID](https://www.instagram.com/ai_expert._.04/)](mailto:tubeyou041119@gmail.com)
+[![Instagram ID](https://www.instagram.com/ai_expert._.04/)]
 
 
 ## 💻 Technologies I Love
