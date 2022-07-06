@@ -11,7 +11,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - Deep Learning
 - Image Processing
 - Data Science
-- Gmae Create
+- Create a game
 
 
 ## 🤐 Programming Languages
