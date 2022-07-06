@@ -4,7 +4,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 [![Instagram ID](https://www.instagram.com/ai_expert._.04/)]
 
-
 ## 💻 Technologies I Love
 
 - Machine Learning
@@ -16,7 +15,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🤐 Programming Languages
 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
 ## 📘 Bio
