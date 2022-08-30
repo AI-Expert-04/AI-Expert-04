@@ -8,9 +8,12 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 - Machine Learning
 - Deep Learning
+- Reinforcement Learning
 - Image Processing
 - Data Science
 - Create a game
+- VR
+- Algorithm
 
 
 ## 🤐 Programming Languages
