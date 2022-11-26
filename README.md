@@ -4,6 +4,11 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 🌍 Instagram [ID](https://www.instagram.com/ai_expert._.04)
 
+## 수상 경력
+- `2021` 전국 ICT 창의성 대회 네트워크 전문가 금상
+- `2021` 전국 ICT 창의성 대회 정보처리 전문가 금상
+- `2021` 서울창의아이디어경진대회 서울시장상
+
 ## 💻 Technologies I Love
 
 - Machine Learning
@@ -19,6 +24,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 🤐 Programming Languages
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
 ## 📘 Bio
