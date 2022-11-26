@@ -1,6 +1,6 @@
 # Hello world! I'm  SeungYeop <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I❤️ code, Python and anything **CREATIVE**✨
+I❤️ code, Python and anything,  **CREATIVE**✨
 
 ## 수상 경력
 - `2022` 전국 ICT 창의성 대회 네트워크 전문가 금상
