@@ -2,8 +2,6 @@
 
 I❤️ code, Python and anything **CREATIVE**✨
 
-🌍 Instagram [ID](https://www.instagram.com/ai_expert._.04)
-
 ## 수상 경력
 - `2021` 전국 ICT 창의성 대회 네트워크 전문가 금상
 - `2021` 전국 ICT 창의성 대회 정보처리 전문가 금상
