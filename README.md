@@ -1,4 +1,4 @@
-# Hello world! I'm SeungYeop <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello world! I'm  SeungYeop <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I❤️ code, Python and anything **CREATIVE**✨
 
@@ -24,7 +24,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📘 Bio
 
 - 🏢 I'm currently in high school
-- 🌍 Instagram [AI](https://www.instagram.com/ai_expert._.04)
+- 🌍 Instagram [AI](https://www.instagram.com/kku_ing._.04)
 - ⚙️ I love to create creative A.I. solutions.
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 - 💉 Surprise: I'm a huge fan of Bloodborne and From Software games. Fear the old blood.
