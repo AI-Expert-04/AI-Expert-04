@@ -23,10 +23,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 🤐 Programming Languages
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img alt="unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
-
-
-
-
 ## 📘 Bio
 
 - 🏢 I'm currently in high school
@@ -37,3 +33,4 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 
 [![AI-Expert-04's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Expert-04&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/AI-Expert-04)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AI-Expert-04&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/AI-Expert-04)
