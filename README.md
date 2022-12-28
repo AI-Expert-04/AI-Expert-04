@@ -1,4 +1,4 @@
-# Hello world! I'm  SeungYeop <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello world! I'm  kkuing <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I❤️ code, Python and anything,  **CREATIVE**✨
 
@@ -11,10 +11,10 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 
 - Machine Learning
 - Deep Learning
-- Reinforcement Learning
+- Optimization Algorithm
 - Image Processing
 - Data Science
-- Create a game
+- FPS game
 - VR
 - Algorithm
 
@@ -27,7 +27,6 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - 🌍 Instagram [AI](https://www.instagram.com/kku_ing._.04)
 - ⚙️ I love to create creative A.I. solutions.
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
-- 💉 Surprise: I'm a huge fan of Bloodborne and From Software games. Fear the old blood.
 
 
 [![AI-Expert-04's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Expert-04&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/AI-Expert-04)
