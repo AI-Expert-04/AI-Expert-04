@@ -28,6 +28,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - ⚙️ I love to create creative A.I. solutions.
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 !![AI-Expert-04's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Expert-04&theme=radical)
+![SOLBON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junst&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AI-Expert-04&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/AI-Expert-04)
 
