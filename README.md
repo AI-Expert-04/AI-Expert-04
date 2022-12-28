@@ -27,8 +27,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - 🌍 Instagram [AI](https://www.instagram.com/kku_ing._.04)
 - ⚙️ I love to create creative A.I. solutions.
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
-
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/b77080dea3684514ad123d83b0b05450?v=ae54004705974b7aa0580af1bbce02f1)
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/R-sum-bd8775bc692e4c00bf791ceb10bd8e6a)
-
 !![AI-Expert-04's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Expert-04&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AI-Expert-04&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/AI-Expert-04)
+
