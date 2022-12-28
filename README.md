@@ -31,3 +31,5 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 
 [![AI-Expert-04's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Expert-04&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/AI-Expert-04)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AI-Expert-04&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/AI-Expert-04)
+
+!![AI-Expert-04's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-Expert-04&theme=radical)
