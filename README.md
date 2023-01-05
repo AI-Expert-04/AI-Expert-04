@@ -23,7 +23,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 
 ## 📘 Bio
 
-- 🏢 I'm currently in high school
+- 🏢 I'm currently currently attending Gachon University.
 - 🌍 Instagram [AI](https://www.instagram.com/kku_ing._.04)
 - ⚙️ I love to create creative A.I. solutions.
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
