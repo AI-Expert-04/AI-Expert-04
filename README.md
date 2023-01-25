@@ -1,6 +1,8 @@
 # Hello world! I'm  [kkuing] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I❤️ code, Python and anything,  **CREATIVE**✨
+ <h3>🙋‍♂️ My 🙋‍♂️</h3>
+ <a href="https://www.instagram.com/kku_ing._.04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
 ## 수상 경력
 - `2022` 전국 ICT 창의성 대회 네트워크 전문가 금상
