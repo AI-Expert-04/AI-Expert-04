@@ -2,7 +2,7 @@
 
 I❤️ code, Python and anything,  **CREATIVE**✨
 <a href="https://www.instagram.com/kku_ing._.04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
-<a href="https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"><img src="https://img.shields.io/badge/YouTube-#FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"/></a>
+<a href="https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"><img src="https://img.shields.io/badge/YouTube-#FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"/></a>
 ## 수상 경력
 - `2022` 전국 ICT 창의성 대회 네트워크 전문가 금상
 - `2022` 전국 ICT 창의성 대회 정보처리 전문가 금상
