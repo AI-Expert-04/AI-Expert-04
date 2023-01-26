@@ -9,7 +9,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - `2022` 서울창의아이디어경진대회 서울시장상
 
 ## 💻 Technologies I Love
-<img src="https://img.shields.io/badge/Machine-Learning-red"/> <img src="https://img.shields.io/badge/Deep-Learning-blue"/> <img src="https://img.shields.io/badge/Deep-Learning-brightgreen"/> <img src="https://img.shields.io/badge/Image-Processing-orange"/> <img src="https://img.shields.io/badge/Data-Science-yellow"/> <img src="https://img.shields.io/badge/FPS-game-lightgrey"/> <img src="https://img.shields.io/badge/V-R-ff69b4"/>
+<img src="https://img.shields.io/badge/Machine-Learning-red"/> <img src="https://img.shields.io/badge/Deep-Learning-blue"/> <img src="https://img.shields.io/badge/Optimization-Algorithm-yellowgreen"/> <img src="https://img.shields.io/badge/Image-Processing-orange"/> <img src="https://img.shields.io/badge/Data-Science-yellow"/> <img src="https://img.shields.io/badge/FPS-game-lightgrey"/> <img src="https://img.shields.io/badge/V-R-ff69b4"/>
 
 ## Enterprise
 <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=Samsung&logoColor=white"/>
