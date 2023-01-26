@@ -10,6 +10,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 
 ## 💻 Technologies I Love
 <img src="https://img.shields.io/badge/Machine-Learning-red"/>
+<img src="https://img.shields.io/badge/Deep-Learning-blue"/>
 - Machine Learning
 - Deep Learning
 - Optimization Algorithm
