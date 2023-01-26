@@ -23,7 +23,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
 
 ## OS
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white"/>
 
 
 ## 🤐 Programming Package
