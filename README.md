@@ -9,7 +9,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - `2022` 서울창의아이디어경진대회 서울시장상
 
 ## 💻 Technologies I Love
-<img src="https://img.shields.io/badge/Machine%20Learning-Machine%20Learning-red"/>
+<img src="https://img.shields.io/badge/Machine-Learning-red"/>
 - Machine Learning
 - Deep Learning
 - Optimization Algorithm
