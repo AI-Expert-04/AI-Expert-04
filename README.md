@@ -19,7 +19,7 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - VR
 - Algorithm
 
-## 기업
+## nterprise
 <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
 
 ## OS
