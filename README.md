@@ -18,6 +18,13 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - FPS game
 - VR
 - Algorithm
+
+## 기업
+<img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
+
+## OS
+
+
 ## 🤐 Programming Package
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 
