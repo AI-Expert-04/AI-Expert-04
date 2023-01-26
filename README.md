@@ -20,8 +20,8 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 - Algorithm
 
 ## Enterprise
-<img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=Samsung&logoColor=white"/>
+ 
 ## OS
 <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
 
