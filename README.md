@@ -1,12 +1,48 @@
-# Hello world! I'm  [kkuing] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" width="460" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/ezgif.com-gif-maker.gif">
 
-I❤️ code, Python and anything,  **CREATIVE**✨
-<a href="https://www.instagram.com/kku_ing._.04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kku_ing._.04/"/></a>
-<a href="https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"/></a>
+# Introduce
+
+Artificial intelligence, game developer
+
+<hr></hr>
+
+TMI : I'm good at Battleground games
+
+</br>
+
+MBTI : ENFP-A
+
+<section>
+<img align="left" width="70%" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/IMG_0272.JPG">
+<div width="30%">
+This is the most difficult project ever developed.
+
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kku_ing._.04)
+
+
+저의 활동이 담겨있습니다.
+  </div>
+</section>
+
+<br>
+<br>
+<hr></hr>
+
 ## 수상 경력
+
 - `2022` 전국 ICT 창의성 대회 네트워크 전문가 금상
 - `2022` 전국 ICT 창의성 대회 정보처리 전문가 금상
 - `2022` 서울창의아이디어경진대회 서울시장상
+
+
+<br>
+
+<br>
+
+
+
+<hr></hr>
+
 
 ## 💻 Technologies I Love
 <img src="https://img.shields.io/badge/Machine-Learning-red"/> <img src="https://img.shields.io/badge/Deep-Learning-blue"/> <img src="https://img.shields.io/badge/Optimization-Algorithm-yellowgreen"/> <img src="https://img.shields.io/badge/Image-Processing-orange"/> <img src="https://img.shields.io/badge/Data-Science-yellow"/> <img src="https://img.shields.io/badge/FPS-game-lightgrey"/> <img src="https://img.shields.io/badge/V-R-ff69b4"/>
@@ -36,7 +72,3 @@ I❤️ code, Python and anything,  **CREATIVE**✨
 
 ![snake svg](https://github.com/AI-Expert-04/AI-Expert-04/blob/main/github-contribution-grid-snake.svg)
 
-
-</div>
-<!--
-**AI-Expert-04/AI-Expert-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
