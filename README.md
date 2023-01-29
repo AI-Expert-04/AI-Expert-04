@@ -13,8 +13,8 @@ TMI : I'm good at Battleground games
 MBTI : ENFP-A
 
 <section>
-<img align="left" width="70%" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/IMG_0272.JPG">
-<div width="30%">
+<img align="left" width="60%" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/IMG_0272.JPG">
+<div width="20%">
 This is the most difficult project ever developed.
 
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kku_ing._.04)
