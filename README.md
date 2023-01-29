@@ -33,19 +33,9 @@ This is the most difficult project ever developed.
 - `2022` 전국 ICT 창의성 대회 네트워크 전문가 금상
 - `2022` 전국 ICT 창의성 대회 정보처리 전문가 금상
 - `2022` 서울창의아이디어경진대회 서울시장상
-
-
 <br>
-
 <br>
-
-
-
 <hr></hr>
-
-
-
-
 ## 💻 Technologies I Love
 <img src="https://img.shields.io/badge/Machine-Learning-red"/> <img src="https://img.shields.io/badge/Deep-Learning-blue"/> <img src="https://img.shields.io/badge/Optimization-Algorithm-yellowgreen"/> <img src="https://img.shields.io/badge/Image-Processing-orange"/> <img src="https://img.shields.io/badge/Data-Science-yellow"/> <img src="https://img.shields.io/badge/FPS-game-lightgrey"/> <img src="https://img.shields.io/badge/V-R-ff69b4"/>
 
