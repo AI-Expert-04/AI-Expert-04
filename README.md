@@ -34,7 +34,7 @@ This is the most difficult project ever developed.
 <br>
 <br>
 <hr></hr>
-## 💻 Technologies I Love
+💻 Technologies I Love
 
 <img src="https://img.shields.io/badge/Machine-Learning-red"/> <img src="https://img.shields.io/badge/Deep-Learning-blue"/> <img src="https://img.shields.io/badge/Optimization-Algorithm-yellowgreen"/> <img src="https://img.shields.io/badge/Image-Processing-orange"/> <img src="https://img.shields.io/badge/Data-Science-yellow"/> <img src="https://img.shields.io/badge/FPS-game-lightgrey"/> <img src="https://img.shields.io/badge/V-R-ff69b4"/>
 
