@@ -18,8 +18,6 @@ MBTI : ENFP-A
 This is the most difficult project ever developed.
 
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kku_ing._.04)
-
-
 저의 활동이 담겨있습니다.
   </div>
 </section>
