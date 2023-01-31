@@ -10,7 +10,7 @@ TMI : I'm good at Battleground games
 
 </br>
 
-MBTI : ENFP-A
+MBTI : ENFP-A.
 
 <section>
 <img align="left" width="60%" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/IMG_0272.JPG">
