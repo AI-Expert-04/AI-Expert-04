@@ -35,9 +35,6 @@ This is the most difficult project ever developed.
  
  
  
- 
- 
-#
 ## OS
 <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
 
