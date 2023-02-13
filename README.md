@@ -34,12 +34,6 @@ This is the most difficult project ever developed.
 <br>
 <br>
 <hr></hr>
-💻 Technologies I Love
-
-<img src="https://img.shields.io/badge/Machine-Learning-red"/> <img src="https://img.shields.io/badge/Deep-Learning-blue"/> <img src="https://img.shields.io/badge/Optimization-Algorithm-yellowgreen"/> <img src="https://img.shields.io/badge/Image-Processing-orange"/> <img src="https://img.shields.io/badge/Data-Science-yellow"/> <img src="https://img.shields.io/badge/FPS-game-lightgrey"/> <img src="https://img.shields.io/badge/V-R-ff69b4"/>
-
-## Enterprise
-<img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=Samsung&logoColor=white"/>
  
 ## OS
 <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
