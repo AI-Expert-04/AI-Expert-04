@@ -32,24 +32,6 @@ This is the most difficult project ever developed.
 - `2022` 전국 ICT 창의성 대회 정보처리 전문가 금상
 - `2022` 서울창의아이디어경진대회 서울시장상
 <hr></hr>
- 
- 
-
-#
-#
-#
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AI-Expert-04&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Expert-04&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table
-  
-<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
