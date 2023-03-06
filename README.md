@@ -33,25 +33,4 @@ This is the most difficult project ever developed.
 - `2022` 서울창의아이디어경진대회 서울시장상
 <hr></hr>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-  
-
-### Image processing  
-<div align="center">
-</div>  
-</td><td valign="top" width="33%">
-  
-
-### Optimization algorithm
-<div align="center">
-</div>
-  
-</td><td valign="top" width="33%">
- 
-### Natural Language Processing
-<div align="center">
-</div>
-</td></tr></table>
-
 
