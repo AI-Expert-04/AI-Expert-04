@@ -4,7 +4,7 @@
 
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
   <a href="https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://www.instagram.com/kku_ing._.04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/__yeopseung"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   
 <br><br>
     
