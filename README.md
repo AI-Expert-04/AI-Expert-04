@@ -1,6 +1,6 @@
 <!-- Main Color : 008d62, 00b07b -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008d62&height=180&section=header&text=kkuing&fontSize=50&animation=fadeIn&fontAlignY=45&fontColor=00b07b"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008d62&height=180&section=header&text=YeopSeung&fontSize=50&animation=fadeIn&fontAlignY=45&fontColor=00b07b"/>
 
  <h3>🙋‍♂️ My 🙋‍♂️</h3>
   <a href="https://www.youtube.com/channel/UCzIUIJ2NLY_AC-XhNWwcP2g"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
